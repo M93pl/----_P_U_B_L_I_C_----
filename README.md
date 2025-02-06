@@ -2,7 +2,7 @@
  Open sources files
 -----------------------------------------------
 
-M93.pl color palette:  
+## M93.pl color palette:  
   
 #2C3E50 gray  
 #E74C3C red  
