@@ -14,3 +14,28 @@
       
 M93.pl
 =================================
+
+
+CMD basic commands:
+
+dir
+cd
+cd..
+cls
+copy
+move
+del
+mkdir
+rmdir
+echo
+exit
+type
+ren
+tasklist
+taskkill
+ping
+ipconfig
+netstat
+chkdsk
+sfc
+help
