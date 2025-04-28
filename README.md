@@ -1,4 +1,5 @@
-# ----_P_U_B_L_I_C_----
+# PUBLIC M93.pl REPOSITORY
+
  Open sources files
 -----------------------------------------------
 
@@ -11,37 +12,18 @@
 #2980B9 blue  
 #FEA13B orange  
 #E2DFD0 creamy  
-      
-www.M93.pl
+
+
+<br><br>
+https://www.m93.pl
 =================================
+
+----------------------
+contact:
 info@m93.pl
 contact@m93.pl
-
-
-~~~~~~~~~~~~~~~~~~
-CMD basic commands:
-
-dir
-cd
-cd..
-cls
-copy
-move
-del
-mkdir
-rmdir
-echo
-exit
-type
-ren
-tasklist
-taskkill
-ping
-ipconfig
-netstat
-chkdsk
-sfc
-help
-~~~~~~~~~~~~~~~~~~
-
-M93.pl (c) 2025
+<br><br>
+Wszelkie prawa zastrzeżone:<br>
+All rights reserved by:
+<br><br>
+M93.pl (c) 2024-2025
